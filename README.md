@@ -15,7 +15,9 @@ I work with both React and Vue ecosystems, from component architecture to API in
 
 ---
 
-## 🧰 Tech Stack
+<details>
+<summary>🧰 Tech Stack</summary>
+<br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -27,9 +29,13 @@ I work with both React and Vue ecosystems, from component architecture to API in
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+</details>
+
 ---
 
-## 💻 Projects
+<details>
+<summary>💻 Projects</summary>
+<br>
 
 **[NoteHub](https://09-auth-gamma-amber.vercel.app)** · [GitHub](https://github.com/Dm1tr1eva/09-auth)
 Notes app with auth, SSR, real-time search, and tag filtering
@@ -38,6 +44,8 @@ Notes app with auth, SSR, real-time search, and tag filtering
 **[Fit Hub Calorie Tracker](https://fit-hub-one-rouge.vercel.app)** · [GitHub](https://github.com/Dm1tr1eva/fit-hub)
 Nutrition tracker with AI meal analysis, charts, and Supabase backend
 `Nuxt.js` `Vue` `TypeScript` `Tailwind` `Supabase` `Gemini API`
+
+</details>
 
 ---
 

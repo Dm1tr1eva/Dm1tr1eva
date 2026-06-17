@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B9E87&height=120&section=header" width="100%"/>
 
   <h1>Hi, I'm Daryna 👋</h1>
   <p><b>Junior Frontend Developer</b> · React · Next.js · Vue · Nuxt</p>
@@ -52,10 +52,10 @@ Nutrition tracker with AI meal analysis, charts, and Supabase backend
 
 ## 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-A2-6C63FF?style=flat-square)
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-6C63FF?style=flat-square)
-![German](https://img.shields.io/badge/German-B1-6C63FF?style=flat-square)
+![English](https://img.shields.io/badge/English-A2-7B9E87?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-7B9E87?style=flat-square)
+![German](https://img.shields.io/badge/German-B1-7B9E87?style=flat-square)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B9E87&height=80&section=footer" width="100%"/>
 </div>

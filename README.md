@@ -42,7 +42,7 @@ I work across the React and Vue ecosystems on the frontend, and Node.js/Express 
 <summary>💻 Projects</summary>
 <br>
 
-**[NoteHub](https://09-auth-gamma-amber.vercel.app)** · [GitHub](https://github.com/Dm1tr1eva/09-auth)
+**[NoteHub](https://09-auth-gamma-amber.vercel.app)** · [GitHub](https://github.com/Dm1tr1eva/notehub)
 Notes app with auth, full CRUD, debounced search, and tag filtering
 `Next.js` `React` `TypeScript` `TanStack Query` `Zustand`
 
@@ -50,11 +50,11 @@ Notes app with auth, full CRUD, debounced search, and tag filtering
 Nutrition tracker with AI meal analysis, charts, and a Supabase backend
 `Nuxt.js` `Vue` `TypeScript` `Tailwind` `Supabase` `Gemini API`
 
-**Harmoniq** · [Backend](https://github.com/Dm1tr1eva/project-First_team_01) · [Frontend](https://github.com/Dm1tr1eva/project-First_team_01_FrontEnd)
+**Harmoniq** · [Backend](https://github.com/Dm1tr1eva/harmoniq-backend) · [Frontend](https://github.com/Dm1tr1eva/harmoniq-frontend)
 Content platform for mental health articles, built as team lead for a team of 8 using Git Flow and mandatory code review
 `Next.js` `Node.js` `Express` `MongoDB` `TypeScript`
 
-**[NoteVault API](https://github.com/Dm1tr1eva/nodejs-hw)**
+**[NoteVault API](https://github.com/Dm1tr1eva/notevault-api)**
 Backend REST API with authentication, email based password reset, and file uploads
 `Express` `MongoDB` `JWT` `Cloudinary`
 

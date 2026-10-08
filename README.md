@@ -65,7 +65,7 @@ Backend REST API with authentication, email based password reset, and file uploa
 
 ## 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-A2-7B9E87?style=flat-square)
+![English](https://img.shields.io/badge/English-B1-7B9E87?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-7B9E87?style=flat-square)
 ![German](https://img.shields.io/badge/German-B1-7B9E87?style=flat-square)
 
